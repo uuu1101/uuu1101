@@ -9,7 +9,7 @@ My history
  - 42 Seoul pisciner 1-2
  - Yagom iOS Camp 1st Member
  
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uuu110) 
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uuu1101) 
 <!--
 **uuu1101/uuu1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
