@@ -9,7 +9,7 @@ My history
  - 42 Seoul La-piscine 1-2 at Innovation Academy
  - Yagom's iOS camper
  
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uuu1101)
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uuu1101) 
 <!--
 **uuu1101/uuu1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
