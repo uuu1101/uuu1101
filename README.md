@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Resume Badge](https://img.shields.io/badge/-Resume-black?logo=notion&logoColor=white?style=flat&link=https://www.notion.so/a3c307a112f244bf8840418ba6aa4162)](https://www.notion.so/a3c307a112f244bf8840418ba6aa4162)
+[![Tech Blog Badge](https://img.shields.io/badge/T-Tistory-lightgrey?style=flat&llogo=Telegraph&logoColor=white&link=https://taetae-dev.tistory.com/)](https://taetae-dev.tistory.com/)
