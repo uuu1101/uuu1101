@@ -9,14 +9,14 @@ Thank you for visiting ! 😄
 💼 My Career 
  - Working at Joara 2021.08 ~ ing
    - Working as an iOS Engineer
- - [Next-Step Effective Swift with TDD, Clean Code](https://github.com/next-step?q=swift&type=all&language=&sort=) 2020.10 ~ 2020. 11
+ - [Next-Step Effective Swift with TDD, Clean Code](https://github.com/next-step?q=swift&type=all&language=&sort=) 2021.10 ~ 2021. 11
    - Course Reviewer
- - [Yagom Academy Code Starter Camp](https://www.yagom-academy.kr/camp/code-starter) 1st, 3th 2020. 08 ~ 2020. 09, 2021. 02 ~
+ - [Yagom Academy Code Starter Camp](https://www.yagom-academy.kr/camp/code-starter) 1st, 3th 2021. 08 ~ 2021. 09, 2021. 02 ~
    - Reviewer TaeTae
  - Yagom Academy 1st Suppoters 2021.05 ~ 2021. 08
  - [Yagom iOS Career Start Camp](https://www.yagom-academy.kr/about) 1st Member 2020.11 ~ 2021. 04
    - Camper TaeTae
- - 42 Seoul pisciner 1-2 2021. 05 ~ 06
+ - 42 Seoul pisciner 1-2 2020. 05 ~ 06
    - taehyKim
  - Deep Learning-based Image Recognition Developer Course at Bit education Center 2019.05 ~ 2019.11
    - [Night-to-Day-Translation](https://gitlab.com/deeva/Night-to-Day-Image-translation)  
