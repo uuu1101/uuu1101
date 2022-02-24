@@ -4,10 +4,14 @@
 Thank you for visiting ! 😄 
 - I'm currently learning iOS development at the Yagom iOS Camp
 
-My history 
- - Deep Learning-based Image Recognition Developer Course at Bit education Center
- - 42 Seoul pisciner 1-2
- - Yagom iOS Camp 1st Member
+My Career 
+ - Working at Joara 2021.08 ~ ing
+ - Next-Step Effective 2020.10 ~ 2020 11
+ - Yagom Academy Code Starter Camp Reviewer 2020. 08 ~ 2020. 09, 2021. 02 ~
+ - Yagom Academy 1st Suppoters 2021.05 ~ 2021. 08
+ - Yagom iOS Camp 1st Member 2020.11 ~ 2021. 04
+ - 42 Seoul pisciner 1-2 2021. 05 ~ 06
+ - Deep Learning-based Image Recognition Developer Course at Bit education Center 2019.05 ~ 2019.11
  
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uuu1101) 
 <!--
