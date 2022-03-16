@@ -9,9 +9,9 @@ Thank you for visiting ! 😄
 💼 My Career 
  - Working at Joara 2021.08 ~ ing
    - Working as an iOS Engineer
- - [Next-Step Effective Swift with TDD, Clean Code](https://github.com/next-step?q=swift&type=all&language=&sort=) 2021.10 ~ 2021. 11
+ - [Next-Step Effective Swift with TDD, Clean Code](https://github.com/next-step?q=swift&type=all&language=&sort=) 2021.10 ~ 2021. 11, 2022. 04 ~ 2022.05 
    - Course Reviewer
- - [Yagom Academy Code Starter Camp](https://www.yagom-academy.kr/camp/code-starter) 1st, 3th 2021. 08 ~ 2021. 09, 2021. 02 ~
+ - [Yagom Academy Code Starter Camp](https://www.yagom-academy.kr/camp/code-starter) 1st, 3th 2021. 08 ~ 2021. 09, 2022. 02 ~ 03
    - Reviewer TaeTae
  - Yagom Academy 1st Suppoters 2021.05 ~ 2021. 08
  - [Yagom iOS Career Start Camp](https://www.yagom-academy.kr/about) 1st Member 2020.11 ~ 2021. 04
