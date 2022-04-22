@@ -7,18 +7,19 @@ Thank you for visiting ! 😄
 
 ---
 💼 My Career 
- - Working at Joara 2021.08 ~ ing
+ - 💼 2022.05 ~ Working at [JeongYookGak](https://www.jeongyookgak.com/index) 
+ - 💼 2021.08 ~ 2022.04 Worked at [Joara](https://www.joara.com/) 
    - Working as an iOS Engineer
- - [Next-Step Effective Swift with TDD, Clean Code](https://github.com/next-step?q=swift&type=all&language=&sort=) 2021.10 ~ 2021. 11, 2022. 04 ~ 2022.05 
+ - 💻 2021.10 ~ 2021. 11, 2022. 04 ~ 2022.05 [Next-Step Effective Swift with TDD, Clean Code](https://github.com/next-step?q=swift&type=all&language=&sort=)  
    - Course Reviewer
- - [Yagom Academy Code Starter Camp](https://www.yagom-academy.kr/camp/code-starter) 1st, 3th 2021. 08 ~ 2021. 09, 2022. 02 ~ 03
+ - 💻 2021. 08 ~ 2021. 09, 2022. 02 ~ 03 [Yagom Academy Code Starter Camp](https://www.yagom-academy.kr/camp/code-starter) 1st, 3th 
    - Reviewer TaeTae
- - Yagom Academy 1st Suppoters 2021.05 ~ 2021. 08
- - [Yagom iOS Career Start Camp](https://www.yagom-academy.kr/about) 1st Member 2020.11 ~ 2021. 04
+ - 💻 2021.05 ~ 2021. 08 Yagom Academy 1st Suppoters
+ - 💻 2020.11 ~ 2021. 04 [Yagom iOS Career Start Camp](https://www.yagom-academy.kr/about) 1st Member
    - Camper TaeTae
- - 42 Seoul pisciner 1-2 2020. 05 ~ 06
+ - 💻 2020. 05 ~ 06 42 Seoul pisciner 1-2
    - taehyKim
- - Deep Learning-based Image Recognition Developer Course at Bit education Center 2019.05 ~ 2019.11
+ - 💻 2019.05 ~ 2019.11 Deep Learning-based Image Recognition Developer Course at Bit education Center
    - [Night-to-Day-Translation](https://gitlab.com/deeva/Night-to-Day-Image-translation)  
  
  ---
