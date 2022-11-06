@@ -11,6 +11,9 @@ Thank you for visiting ! 😄
  - 💼 2022.05 ~ Working at [JeongYookGak](https://www.jeongyookgak.com/index) 
  - 💼 2021.08 ~ 2022.04 Worked at [Joara](https://www.joara.com/) 
    - Working as an iOS Engineer
+
+ - 💻 2022.10 ~ [Yagom iOS Career Start Camp](https://www.yagom-academy.kr/about) 
+   - Course Reviewer
  - 💻 2021.10 ~ 2021. 11, 2022. 04 ~ 2022.05 [Next-Step Effective Swift with TDD, Clean Code](https://github.com/next-step?q=swift&type=all&language=&sort=)  
    - Course Reviewer
  - 💻 2021. 08 ~ 2021. 09, 2022. 02 ~ 03 [Yagom Academy Code Starter Camp](https://www.yagom-academy.kr/camp/code-starter) 1st, 3th 
