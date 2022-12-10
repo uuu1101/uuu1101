@@ -25,7 +25,11 @@ Thank you for visiting ! 😄
    - taehyKim
  - 💻 2019.05 ~ 2019.11 Deep Learning-based Image Recognition Developer Course at Bit education Center
    - [Night-to-Day-Translation](https://gitlab.com/deeva/Night-to-Day-Image-translation)  
- 
+---
+🖊 Present 
+---
+ ### Let us: Go! Fall 2022 
+- [The Composable Architecture](https://github.com/uuu1101/Letusgo-2022-fall) [[📺Video]](https://www.youtube.com/watch?v=wolbYyAjQVs&list=PLfx4MMAj7YbFUnrH7M4Fc8IMAkP5NusNi&index=4&t=142s)
  ---
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uuu1101) 
 <!--
