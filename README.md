@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Resume Badge](https://img.shields.io/badge/-Resume-black?logo=notion&logoColor=white?style=flat&link=[https://titanium-fountain-ead.notion.site/dc86760bf6954622b1d8a99d212c35a8))](https://titanium-fountain-ead.notion.site/dc86760bf6954622b1d8a99d212c35a8))
+[![Resume Badge](https://img.shields.io/badge/-Resume-black?logo=notion&logoColor=white?style=flat&link=[https://titanium-fountain-ead.notion.site/dc86760bf6954622b1d8a99d212c35a8](https://titanium-fountain-ead.notion.site/dc86760bf6954622b1d8a99d212c35a8))
 [![Tech Blog Badge](https://img.shields.io/badge/T-Tistory-lightgrey?style=flat&llogo=Telegraph&logoColor=white&link=https://taetae-dev.tistory.com/)](https://taetae-dev.tistory.com/)
