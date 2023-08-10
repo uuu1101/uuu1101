@@ -8,6 +8,7 @@ Thank you for visiting ! 😄
 ---
 💼 My Career 
 ---
+ - 💼 2023.03 ~ Woring at [Frienkly](https://frienkly.me/) 
  - 💼 2022.05 ~ 2022.12 Worked at [JeongYookGak](https://www.jeongyookgak.com/index) 
  - 💼 2021.08 ~ 2022.04 Worked at [Joara](https://www.joara.com/) 
    - Working as an iOS Engineer
