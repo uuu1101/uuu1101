@@ -8,7 +8,8 @@ Thank you for visiting ! 😄
 ---
 💼 My Career 
 ---
- - 💼 2024.01 ~ Working at [BBROS](https://bbros.co.kr/) 
+ - 💼 2025.07 ~ Working at [easi6/MVL](https://mvlchain.io/)
+ - 💼 2024.01 ~ 2025.06 Worked at [BBROS](https://bbros.co.kr/) 
  - 💼 2023.03 ~ 2023.10 Worked at [Frienkly](https://frienkly.me/) 
  - 💼 2022.05 ~ 2022.12 Worked at [JeongYookGak](https://www.jeongyookgak.com/index) 
  - 💼 2021.08 ~ 2022.04 Worked at [Joara](https://www.joara.com/) 
